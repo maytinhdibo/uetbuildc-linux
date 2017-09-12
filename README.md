@@ -6,4 +6,4 @@ Chạy dòng lệnh dưới quyền sudo:
 <h3>Sử dụng:</h3>
 Chạy sử dụng command "uetbuild-c"
 <br>
-Tác giả: Trần Mạnh Cường - K62 - UET
+
